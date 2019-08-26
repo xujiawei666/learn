@@ -4,7 +4,6 @@
 	cd fliename//进入文件夹
 	pwd//显示文件夹
 	git init //把当前文件夹变成git库
-
 # 提交文件 #
 
 	git add fliename//添加文件
@@ -32,4 +31,10 @@
 	//在版本库中删除文件
 	git rm <flie>
 	git commit -m "remove test.txt"
+## git远程库 ##
+
+	//推送到远程库上
+	git remote add origin git@github.com:xujiawei666/learn.git
+	git push -u origin master//origin远程名
+
 
