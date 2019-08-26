@@ -1,5 +1,5 @@
 ##创建git文件夹
-	mkdir fliename//创建文件夹
+	``mkdir fliename//创建文件夹
 	cd fliename//进入文件夹
 	pwd//显示文件夹
 	git init //把当前文件夹变成git库
